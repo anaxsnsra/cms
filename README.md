@@ -24,6 +24,8 @@ http://localhost:8000/api/profile
 
 set in ProfileController for the function and display in view {name}.blade.php
 
+Route
+
 //Return full url in route
 http://localhost:8000/user
 
